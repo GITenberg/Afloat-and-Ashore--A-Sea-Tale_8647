@@ -1,5 +1,8 @@
 _repo: Afloat-and-Ashore--A-Sea-Tale_8647
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cooper, James Fenimore
@@ -21,6 +24,8 @@ description: "Afloat and Ashore is a nautical fiction novel by James Fenimore Co
   \ novel is partially autobiographical, in part by Cooper's own experiences as a\
   \ sailor, and is his first full-length novel to fully employ a first-person narrative.\n\
   \ From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8647#Afloat-and-Ashore--A-Sea-Tale
 gutenberg_issued: '2005-08-01'
 gutenberg_type: Text
 identifiers:
